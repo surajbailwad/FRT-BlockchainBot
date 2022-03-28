@@ -5,6 +5,7 @@ A Bot that helps to educate people about blockchain, Web 3.0, Crypto etc.
  \
  \
  **YouTube Video (Proof of use of Azure Services for Project):**
+  https://youtu.be/EaIqXwjKAjs
  
 ## Project Steps:
 ### Step 1: Create a resource group under QnA maker in Azure Portal
